@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm <a href ="https://akshad16.github.io/Portfolio/">Akshad Malegaonkar</a> 👋</h1>
-<h3 align="left">I am an Java Developer,I have honed my skills and cultivated a deep passion for continous learing.Beyond the realm of coding, I find solace and inspiration in the harmonious melodies of music. I am an avid reader, indulging in novels that transport me to different worlds and ignite my imagination.In my quest for growth, I embrace the opportunity to explore and learn new coding languages during my free time. Each new language represents a gateway to expanding my repertoire and broadening my problem-solving capabilities.</h3>
+<h3 align="left">I am a Java & Web Developer,I have honed my skills and cultivated a deep passion for continous learing.Beyond the realm of coding, I find solace and inspiration in the harmonious melodies of music. I am an avid reader, indulging in novels that transport me to different worlds and ignite my imagination.In my quest for growth, I embrace the opportunity to explore and learn new coding languages during my free time. Each new language represents a gateway to expanding my repertoire and broadening my problem-solving capabilities.</h3>
 
 <h3>🎵Listen <a href = "https://youtu.be/nCvaPWoFEl8">Music</a></h3>
 
